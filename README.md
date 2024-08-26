@@ -9,7 +9,7 @@ The data being analyzed consists of cryptocurrencies according to their price fl
 * 200 days 
 * 1 year
 
-  # The Objective:
+# The Objective:
 The objective of this analysis is to classify crypto currency into clusters based on the given proce fluctuations.
 the code is organized into the following steps:
 The data is read from the csv provided in the Resources folde rof the git hub
